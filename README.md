@@ -11,17 +11,20 @@ Swarm Theory proposes that physical reality arises from a structured lattice of 
 ## Papers
 Each paper is archived on Zenodo with a DOI. Together they form one continuous series:
 
-- [Plain Language Paper](DOI link)  
-- [Position Hypothesis](DOI link)  
-- [Planck’s Constant (h)](DOI link)  
-- [Fine-Structure Constant (α)](DOI link)  
-- [Elementary Charge (e)](DOI link)  
-- [Vacuum Permittivity (ε₀)](DOI link)  
-- [Vacuum Permeability (μ₀)](DOI link)  
-- [Vacuum Wave Impedance (Z₀)](DOI link)  
-- [Unified Field Equation (UFE)](DOI link)  
+## Papers
+Each paper is archived on Zenodo with a DOI. Together they form one continuous series:
 
-*(replace DOI link with actual Zenodo DOIs)*
+| Paper                                | DOI Link |
+|--------------------------------------|----------|
+| Plain Language Paper                 | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17120195) |
+| Position Hypothesis                  | [10.5281/zenodo.17140887](https://doi.org/10.5281/zenodo.17140887) |
+| Planck’s Constant (h)                | [10.5281/zenodo.17129863](https://doi.org/10.5281/zenodo.17129863) |
+| Fine-Structure Constant (α, Sommerfeld’s) | [10.5281/zenodo.17130007](https://doi.org/10.5281/zenodo.17130007) |
+| Elementary Charge (e)                | [10.5281/zenodo.17141219](https://doi.org/10.5281/zenodo.17141219) |
+| Vacuum Permittivity (ε₀)             | [10.5281/zenodo.17141112](https://doi.org/10.5281/zenodo.17141112) |
+| Vacuum Permeability (μ₀)             | *(to be added)* |
+| Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
+| Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
