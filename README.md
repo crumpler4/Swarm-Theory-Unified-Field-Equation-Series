@@ -11,9 +11,6 @@ Swarm Theory proposes that physical reality arises from a structured lattice of 
 ## Papers
 Each paper is archived on Zenodo with a DOI. Together they form one continuous series:
 
-## Papers
-Each paper is archived on Zenodo with a DOI. Together they form one continuous series:
-
 | Paper                                | DOI Link |
 |--------------------------------------|----------|
 | Plain Language Paper                 | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17120195) |
