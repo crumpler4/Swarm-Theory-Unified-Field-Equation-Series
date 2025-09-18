@@ -19,7 +19,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | Fine-Structure Constant (α, Sommerfeld’s) | [10.5281/zenodo.17130007](https://doi.org/10.5281/zenodo.17130007) |
 | Elementary Charge (e)                | [10.5281/zenodo.17141219](https://doi.org/10.5281/zenodo.17141219) |
 | Vacuum Permittivity (ε₀)             | [10.5281/zenodo.17141112](https://doi.org/10.5281/zenodo.17141112) |
-| Vacuum Permeability (μ₀)             | *(to be added)* |
+| Vacuum Permeability (μ₀)             | [10.5281/zenodo.17151806](https://doi.org/10.5281/zenodo.17151806)|
 | Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 
