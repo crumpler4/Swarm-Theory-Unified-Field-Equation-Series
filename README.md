@@ -2,6 +2,15 @@
 
 This repository collects the *Swarm Theory* papers — a unified series exploring how space, matter, and the constants of physics emerge from lattice coherence.
 
+## Key Topics
+- Unified Field Equation (UFE)  
+- Swarm Theory and coherence geometry  
+- Derivations of Planck’s constant, Sommerfeld’s constant, elementary charge  
+- Vacuum permittivity (ε₀), vacuum permeability (μ₀), and vacuum wave impedance (Z₀)  
+- Lattice-based unification of electromagnetism and gravity  
+- UFEB (Unified Field Equation, Budget form) — update-based formulation without time  
+- Philosophical implications: conservation, time, and ontological minimalism  
+
 ## Overview
 Swarm Theory proposes that physical reality arises from a structured lattice of coherence membranes. From this geometry follow:
 - **Physical constants** (h, α, e, ε₀, μ₀, Z₀)
@@ -22,6 +31,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | Vacuum Permeability (μ₀)             | [10.5281/zenodo.17151806](https://doi.org/10.5281/zenodo.17151806)|
 | Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
+| Unified Field Equation (UFEB) A Highly Simplified Mathmatical Approach | [10.5281/zenodo.xxxx] Pending |
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
