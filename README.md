@@ -32,6 +32,11 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 | UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [https://doi.org/10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
+## FAQ
+### What is the lattice made of?
+The lattice is that which has the properties defined by the Unified Field Equation (UFE). At its most basic, it is real space — two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity, but one may think of it as stored energy: a coherence structure stretched between zero nodes. It is not substance in the old aether sense, but a field of capacity that carries and shapes waves.
+
+A physical metaphor is the foam head on a Guinness Stout. The thin membranes of the bubbles represent the lattice, while the CO₂/N₂ inside each bubble represents the zero nodes. Yet unlike the beer foam, the lattice is not a material: it has no thickness, no mass. And the interior — the zero node — is the absence of reality itself.
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
