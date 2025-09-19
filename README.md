@@ -31,7 +31,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | Vacuum Permeability (μ₀)             | [10.5281/zenodo.17151806](https://doi.org/10.5281/zenodo.17151806)|
 | Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
-| Unified Field Equation (UFEB) A Simplified Mathmatical Approach | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17159129)|
+| UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [https://doi.org/10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
