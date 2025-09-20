@@ -1,3 +1,8 @@
+# Author:  John Paul Crumpler, PE
+# Researcher, United Kingdom
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # Swarm Theory: Unified Field Equation Series
 
 This repository collects the *Swarm Theory* papers — a unified series exploring how space, matter, and the constants of physics emerge from lattice coherence.
