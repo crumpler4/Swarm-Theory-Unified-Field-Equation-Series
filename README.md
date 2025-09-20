@@ -46,7 +46,7 @@ The **Crumpler Transform** is a reformulation of field equations in the Unified 
 Instead of continuous time variables, physics is expressed in discrete update intervals (tau), with conservation enforced through budget identities.
 - **Motivation**: Created *“by a lazy engineer for lazy physicists”*, the CT reduces algebraic overhead by collapsing differential equations into budget relations.  
 - **Analogy**: As the Laplace Transform simplified differential equations into algebraic forms, the Crumpler Transform simplifies field equations into balance identities.  
-- **Impact**: Complex relativistic, quantum, and gravitational effects can be calculated with simpler algebra, while still producing results with CODATA precision.
+- **Impact**: Complex relativistic, quantum, and gravitational effects can be calculated with simpler step functions, while still producing results with CODATA precision.
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
