@@ -10,19 +10,29 @@
 This repository collects the *Swarm Theory* papers — a unified series exploring how space, matter, and the constants of physics emerge from lattice coherence.
 
 ## Key Topics
-- Unified Field Equation (UFE)  
-- Swarm Theory and coherence geometry  
-- Derivations of Planck’s constant, Sommerfeld’s constant, elementary charge  
-- Vacuum permittivity (ε₀), vacuum permeability (μ₀), and vacuum wave impedance (Z₀)  
-- Lattice-based unification of electromagnetism and gravity  
-- UFEB (Unified Field Equation, Budget form) — update-based formulation without time  
-- Philosophical implications: conservation, time, and ontological minimalism  
+- **Unified Field Equation (UFE)**  
+  A lattice-based framework for unifying quantum mechanics, relativity, and electromagnetism.  
+- **Swarm Theory and Coherence Geometry**  
+  Real space modeled as a 2D coherence lattice with tension and wave-bearing capacity.  
+- **Fundamental Constant Derivations**  
+  Direct derivations of Planck’s constant (h), Sommerfeld’s constant (α), and the elementary charge (e).  
+- **Electromagnetic Constants**  
+  Vacuum permittivity (epsilon0), vacuum permeability (mu0), and vacuum wave impedance (Z0) derived from lattice geometry.  
+- **Lattice-Based Unification of Electromagnetism and Gravity**  
+  A coherent geometric substrate explaining both forces as emergent from the same structure.  
+- **Gravitational Constant (G)**  
+  Derived directly from lattice update geometry, closing the gravitational scale.  
+- **UFEB (Unified Field Equation, Budget form)**  
+  A simplified update-based formulation that eliminates explicit time, replacing it with discrete step functions.  
+- **Philosophical Implications**  
+  Conservation principles, the non-fundamentality of time, and an ontological minimalism underlying physical law.  
 
 ## Overview
 Swarm Theory proposes that physical reality arises from a structured lattice of coherence membranes. From this geometry follow:
 - **Physical constants** (h, α, e, ε₀, μ₀, Z₀)
 - **Forces and fields** (electromagnetism, gravity, inertia)
 - **Unification** through a single field equation (UFE)
+- **Simplification** through removal of time in the UFEB (budget form), math is simplified while producing CODATA results.
 
 ## Papers
 Each paper is archived on Zenodo with a DOI. Together they form one continuous series:
