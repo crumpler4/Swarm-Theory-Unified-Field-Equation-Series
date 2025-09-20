@@ -39,8 +39,14 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 ## FAQ
 ### What is the lattice made of?
 The lattice is that which has the properties defined by the Unified Field Equation (UFE). At its most basic, it is real space — two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity, but one may think of it as stored energy: a coherence structure stretched between zero nodes. It is not substance in the old aether sense, but a field of capacity that carries and shapes waves.
-
 A physical metaphor is the foam head on a Guinness Stout. The thin membranes of the bubbles represent the lattice, while the CO₂/N₂ inside each bubble represents the zero nodes. Yet unlike the beer foam, the lattice is not a material: it has no thickness, no mass. And the interior — the zero node — is the absence of reality itself.
+
+### What is a Crumpler Transform (CT) ?
+The **Crumpler Transform** is a reformulation of field equations in the Unified Field Equation (Budget form, UFEB) that eliminates explicit dependence on time.  
+Instead of continuous time variables, physics is expressed in discrete update intervals (tau), with conservation enforced through budget identities.
+- **Motivation**: Created *“by a lazy engineer for lazy physicists”*, the CT reduces algebraic overhead by collapsing differential equations into budget relations.  
+- **Analogy**: As the Laplace Transform simplified differential equations into algebraic forms, the Crumpler Transform simplifies field equations into balance identities.  
+- **Impact**: Complex relativistic, quantum, and gravitational effects can be calculated with simpler algebra, while still producing results with CODATA precision.
 
 ## Series Note
 Each paper can be read independently, but together they trace one arc: constants, forces, and unification all as geometric consequences of lattice coherence.
