@@ -61,5 +61,3 @@ Each paper can be read independently, but together they trace one arc: constants
 ## Author’s Note
 *What’s the rush? Life is a Heaviside function: at some unknown point in time it discontinuously drops to zero. I am already in that latter portion of the curve. Before that step, these papers arrive in quick succession. If a paper appears after that point, then I was wrong about more than a few things.*
 
-## License
-This work is licensed under the [Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
