@@ -51,6 +51,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
 | The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164270](https://doi.org/10.5281/zenodo.17164270) |
 | Planck Scales from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164341](https://doi.org/10.5281/zenodo.17164341) |
+| Electron Mass, Proton Mass, Rydberg Constant and Bohr Radius from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17169451](https://doi.org/10.5281/zenodo.17169451) |
 | UFEB Development Notes with Provenance Flagging: A Swarm Theory Derivation | [10.5281/zenodo.17164419](https://doi.org/10.5281/zenodo.17164419) |
 
 ## FAQ
