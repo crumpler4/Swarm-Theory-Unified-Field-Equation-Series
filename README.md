@@ -59,7 +59,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 ### About the Author
 John Paul Crumpler PE is a retired professional engineer and independent researcher focused on theoretical physics, with a particular interest in the unification of fundamental forces through geometric models of space. His work, published on CERN’s Zenodo archive, develops Swarm Theory — a framework for deriving physical constants and unified field equations from lattice coherence geometry. His research emphasizes open-access dissemination, mathematical rigor, and engagement with skeptic and scientific communities.  
 
-### Is the lattice just another word for “aether”?###
+### Is the lattice just another word for “aether”?
 No. The lattice in Swarm Theory is not an invisible substance that carries waves. It is the structured geometry of space itself — a more defined version of what relativity calls SpaceTime. Waves do not travel through nothing; they propagate as coherence patterns in the lattice. This avoids the paradox of “carrier waves in a vacuum” and makes quantization a direct consequence of lattice geometry.
 
 ### What is the lattice made of?
