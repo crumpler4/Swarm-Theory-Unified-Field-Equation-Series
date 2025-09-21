@@ -66,19 +66,19 @@ A physical metaphor is the foam head on a Guinness Stout. The thin membranes of 
 ### What is a Swarm?
 In **Swarm Theory**, a swarm is neither a biological colony or an algorithm, but a coherence structure in the lattice of space. A swarm forms when waves of tension on the lattice intersect, reinforce, and create a stable configuration or standing wave pattern. These swarms can behave as particles, fields, or persistent waveforms depending on geometry.  For example, electrons and protons are long lived swarms that persist indefinately.  One analogy to a swarm is a hurricane developing on the ocean.  It is a persistant energy pattern. In short, a “swarm” is the fundamental unit of persistence in the lattice — the building block from which space, matter, and physical laws emerge.
 
-Key Points:
+**Key Points:**
   A **swarm|** is a pattern of coherence, not a physical substance.
-  It emerges from the collective behavior of lattice planes around zero nodes.
-  Stable swarms correspond to the particles and constants we observe in physics.
-  Temporary swarms represent excitations, interactions, or decay.
+- It emerges from the collective behavior of lattice planes around zero nodes.
+- Stable swarms correspond to the particles and constants we observe in physics.
+- Temporary swarms represent excitations, interactions, or decay.
 
 **Which particles are non-persistent swarms?** **Non-persistent swarms** are short-lived coherence patterns that cannot sustain themselves in the lattice. They arise when lattice tension waves intersect in unstable geometries, producing transient excitations that eventually decay back into more stable forms.  In **Swarm Theory**, these non-persistent swarms are the temporary flashes of order in the lattice — coherence states that appear briefly but cannot persist indefinitely. In contrast, electrons, protons, positrons, and antiprotons are persistent swarms, representing the stable foundation of matter.
 
 **Examples of non-persistent swarms include:**
-Unstable leptons: muon (μ⁻), tau (τ⁻).
-Hadrons: free neutrons (outside nuclei), mesons (pions, kaons), and baryon resonances (Δ, Λ, Σ, etc.).
-Bosons: W⁺, W⁻, Z⁰ bosons, Higgs boson, and gluons (confined, not persistent in free form).
-Other transient states: unstable nuclei (radioisotopes), quark–antiquark bound states (e.g., charmonium, bottomonium), and high-energy resonances observed in particle collisions.
+- nstable leptons: muon (μ⁻), tau (τ⁻).
+- Hadrons: free neutrons (outside nuclei), mesons (pions, kaons), and baryon resonances (Δ, Λ, Σ, etc.).
+- Bosons: W⁺, W⁻, Z⁰ bosons, Higgs boson, and gluons (confined, not persistent in free form).
+- Other transient states: unstable nuclei (radioisotopes), quark–antiquark bound states (e.g., charmonium, bottomonium), and high-energy resonances observed in particle collisions.
 
 ### What is a Crumpler Transform (CT) ?
 The **Crumpler Transform** is a reformulation of field equations in the Unified Field Equation (Budget form, UFEB) that eliminates explicit dependence on time.  
