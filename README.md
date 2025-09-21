@@ -4,13 +4,10 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-
 # Swarm Theory: Unified Field Equation Series.  Unified Field Theory
-
 Swarm Theory is a unified field theory approach that models the universe as a lattice of coherence. In this framework, space, matter, and the constants of physics are not fundamental but emerge from the collective behavior of this lattice. The theory introduces the concept of lattice coherence to explain quantization, wave propagation, and gravitational effects as geometric consequences of the structure. Through a series of open-access papers, the Unified Field Equation Series derives physical constants directly from first principles of geometry and coherence, offering a new perspective on unification in physics.
 
 ## Keywords
-
 Swarm Theory is developed as the Unified Field Equation Series, an open-access research program exploring lattice coherence and coherence geometry as the foundation of physics. The work emphasizes geometric unification, showing how physical constants (including the Planck scales, the speed of light, and the fine-structure constant) emerge directly from lattice geometry. Central concepts include membrane tension (ΔI), Arthur’s Constant (κ ≈ 0.92203), and the Scaling Factor (~544), which together define how emergent constants and spacetime structure arise from first principles. All derivations and appendices are available in the Swarm Theory: Unified Field Equation Series, published as open-access papers on Zenodo.
 
 ## Key Topics of Unified Field Theory
@@ -65,6 +62,16 @@ John Paul Crumpler PE is a retired professional engineer and independent researc
 ### What is the lattice made of?
 The lattice is that which has the properties defined by the Unified Field Equation (UFE). At its most basic, it is real space — two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity, but one may think of it as stored energy: a coherence structure stretched between zero nodes. It is not substance in the old aether sense, but a field of capacity that carries and shapes waves.
 A physical metaphor is the foam head on a Guinness Stout. The thin membranes of the bubbles represent the lattice, while the CO₂/N₂ inside each bubble represents the zero nodes. Yet unlike the beer foam, the lattice is not a material: it has no thickness, no mass. And the interior — the zero node — is the absence of reality itself.
+### What is a Swarm?
+In ##Swarm Theory, a swarm is neither a biological colony or an algorithm, but a coherence structure in the lattice of space. A swarm forms when waves of tension on the lattice intersect, reinforce, and create a stable configuration or standing wave pattern. These swarms can behave as particles, fields, or persistent waveforms depending on geometry.  For example, electrons and protons are long lived swarms that persist indefinately.  One analogy to a swarm is a hurricane developing on the ocean.  It is a persistant energy pattern..
+
+##Key points:
+A swarm is a pattern of coherence, not a physical substance.
+It emerges from the collective behavior of lattice planes around zero nodes.
+Stable swarms correspond to the particles and constants we observe in physics.
+Temporary swarms represent excitations, interactions, or decay.
+
+In short, a “swarm” is the fundamental unit of persistence in the lattice — the building block from which space, matter, and physical laws emerge.**
 
 ### What is a Crumpler Transform (CT) ?
 The **Crumpler Transform** is a reformulation of field equations in the Unified Field Equation (Budget form, UFEB) that eliminates explicit dependence on time.  
