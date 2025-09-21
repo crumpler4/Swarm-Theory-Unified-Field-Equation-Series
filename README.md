@@ -75,7 +75,7 @@ In **Swarm Theory**, a swarm is neither a biological colony or an algorithm, but
 **Which particles are non-persistent swarms?** **Non-persistent swarms** are short-lived coherence patterns that cannot sustain themselves in the lattice. They arise when lattice tension waves intersect in unstable geometries, producing transient excitations that eventually decay back into more stable forms.  In **Swarm Theory**, these non-persistent swarms are the temporary flashes of order in the lattice — coherence states that appear briefly but cannot persist indefinitely. In contrast, electrons, protons, positrons, and antiprotons are persistent swarms, representing the stable foundation of matter.
 
 **Examples of non-persistent swarms include:**
-- nstable leptons: muon (μ⁻), tau (τ⁻).
+- Unstable leptons: muon (μ⁻), tau (τ⁻).
 - Hadrons: free neutrons (outside nuclei), mesons (pions, kaons), and baryon resonances (Δ, Λ, Σ, etc.).
 - Bosons: W⁺, W⁻, Z⁰ bosons, Higgs boson, and gluons (confined, not persistent in free form).
 - Other transient states: unstable nuclei (radioisotopes), quark–antiquark bound states (e.g., charmonium, bottomonium), and high-energy resonances observed in particle collisions.
