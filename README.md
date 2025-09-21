@@ -9,7 +9,11 @@
 
 Swarm Theory is a unified field theory approach that models the universe as a lattice of coherence. In this framework, space, matter, and the constants of physics are not fundamental but emerge from the collective behavior of this lattice. The theory introduces the concept of lattice coherence to explain quantization, wave propagation, and gravitational effects as geometric consequences of the structure. Through a series of open-access papers, the Unified Field Equation Series derives physical constants directly from first principles of geometry and coherence, offering a new perspective on unification in physics.
 
-## Key Topics
+## Keywords
+
+Swarm Theory is developed as the Unified Field Equation Series, an open-access research program exploring lattice coherence and coherence geometry as the foundation of physics. The work emphasizes geometric unification, showing how physical constants (including the Planck scales, the speed of light, and the fine-structure constant) emerge directly from lattice geometry. Central concepts include membrane tension (ΔI), Arthur’s Constant (κ ≈ 0.92203), and the Scaling Factor (~544), which together define how emergent constants and spacetime structure arise from first principles. All derivations and appendices are available in the Swarm Theory: Unified Field Equation Series, published as open-access papers on Zenodo.
+
+## Key Topics of Unified Field Theory
 - **Unified Field Equation (UFE)**  
   A lattice-based framework for unifying quantum mechanics, relativity, and electromagnetism.  
 - **Swarm Theory and Coherence Geometry**  
