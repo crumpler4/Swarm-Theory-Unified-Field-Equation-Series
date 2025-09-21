@@ -59,6 +59,9 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 ### About the Author
 John Paul Crumpler PE is a retired professional engineer and independent researcher focused on theoretical physics, with a particular interest in the unification of fundamental forces through geometric models of space. His work, published on CERN’s Zenodo archive, develops Swarm Theory — a framework for deriving physical constants and unified field equations from lattice coherence geometry. His research emphasizes open-access dissemination, mathematical rigor, and engagement with skeptic and scientific communities.  
 
+### Is the lattice just another word for “aether”?###
+No. The lattice in Swarm Theory is not an invisible substance that carries waves. It is the structured geometry of space itself — a more defined version of what relativity calls SpaceTime. Waves do not travel through nothing; they propagate as coherence patterns in the lattice. This avoids the paradox of “carrier waves in a vacuum” and makes quantization a direct consequence of lattice geometry.
+
 ### What is the lattice made of?
 The lattice is that which has the properties defined by the Unified Field Equation (UFE). At its most basic, it is real space — two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity, but one may think of it as stored energy: a coherence structure stretched between zero nodes. It is not substance in the old aether sense, but a field of capacity that carries and shapes waves.
 A physical metaphor is the foam head on a Guinness Stout. The thin membranes of the bubbles represent the lattice, while the CO₂/N₂ inside each bubble represents the zero nodes. Yet unlike the beer foam, the lattice is not a material: it has no thickness, no mass. And the interior — the zero node — is the absence of reality itself.
