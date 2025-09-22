@@ -66,6 +66,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 | Vacuum Permittivity (ε₀)             | [10.5281/zenodo.17141112](https://doi.org/10.5281/zenodo.17141112) |
 | Vacuum Permeability (μ₀)             | [10.5281/zenodo.17151806](https://doi.org/10.5281/zenodo.17151806)|
 | Vacuum Wave Impedance (Z₀)           | [10.5281/zenodo.17140967](https://doi.org/10.5281/zenodo.17140967) |
+| Maxwell’s Equations from Coherence Geometry |[10.5281/zenodo.17180116]https://doi.org/10.5281/zenodo.17180116 |
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 | UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
 | The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164270](https://doi.org/10.5281/zenodo.17164270) |
