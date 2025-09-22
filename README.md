@@ -36,6 +36,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 - **Atomic touchstones:** Bohr radius \(a_0\), Rydberg \(R_\infty\), (with mass inputs noted where used).
 
 > All results include **worked calculations** and match CODATA/SI where applicable.
+
 ---
 
 ## Key topics
@@ -47,6 +48,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 - **Gravitational closure** — \(G\) and Planck scales from the same \(\tau\)  
 - **Hydrogen & thermodynamics** — \(a_0,\ R_\infty,\ k_B,\ \sigma,\ a,\ b,\ T_P\)  
 - **Falsifiable predictions** — \(\Delta\phi=E\tau/\hbar\), \(\Delta f/f=\Delta\Phi/c^2\), HF dispersion
+
 ---
 
 ## Publications (selected)
@@ -71,6 +73,8 @@ The series derives constants and scales directly from **coherence geometry**, an
 | Boltzmann, Stefan–Boltzmann, Wien, Radiation Constant, Planck Temperature from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17175869](https://doi.org/10.5281/zenodo.17175869) |
 | UFEB Development Notes with Provenance Flagging: A Swarm Theory Derivation | [10.5281/zenodo.17164419](https://doi.org/10.5281/zenodo.17164419) |
 
+---
+
 ## FAQ
 
 ### About the Author
@@ -85,6 +89,8 @@ The series derives constants and scales directly from **coherence geometry**, an
 
 ### What is the lattice made of?
 The lattice is **that which has the properties defined by the Unified Field Equation (UFE)**. At its most basic, it is **real space**—two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity; a useful intuition is **stored energy** arranged as a coherence structure stretched between zero-nodes. It is **not** a substance in the old aether sense, but a **field of capacity** that carries and shapes waves.
+
+---
 
 **Physical metaphor:** the foam head on a Guinness stout. The thin membranes of the bubbles represent the lattice; the CO₂/N₂ inside each bubble represents the zero-nodes. Unlike beer foam, the lattice **is not a material**: it has **no thickness** and **no mass**. The interior (the zero-node) is the **absence of physical reality**.
 
@@ -125,12 +131,17 @@ Instead of continuous time \(t\), physics is expressed in **discrete update inte
 ## Series Note
 Each paper can be read independently, but together they trace a single arc: **constants, forces, and unification** all as **geometric consequences of lattice coherence**.
 
+---
 
 ## Author’s Note
 **What’s the rush?** Life is a Heaviside function: at some unknown point in time it discontinuously drops to zero. I am already in that latter portion of the curve. Before that step, these papers arrive in quick succession. If a paper appears after that point, then I was wrong about more than a few things.*
 
+---
 
 ## License
 
 This work is licensed under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
 See the LICENSE file for details.
+
+---
+
