@@ -57,6 +57,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 
 | Paper                                | DOI Link |
 |--------------------------------------|----------|
+| Falsifiable Predictions from Swarm Theory: A Geometric Unified Field Framework | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17179259) |
 | Plain Language Paper                 | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17120195) |
 | Position Hypothesis                  | [10.5281/zenodo.17140887](https://doi.org/10.5281/zenodo.17140887) |
 | Planck’s Constant (h)                | [10.5281/zenodo.17129863](https://doi.org/10.5281/zenodo.17129863) |
