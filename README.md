@@ -1,7 +1,6 @@
 # Author:  John Paul Crumpler, PE
 ##  Researcher, United Kingdom
 ![Copyright](https://img.shields.io/badge/Copyright-©%202025%20John%20Paul%20Crumpler-blue.svg)
-
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # Swarm Theory: Unified Field Equation Series.  Unified Field Theory
@@ -53,6 +52,7 @@ Each paper is archived on Zenodo with a DOI. Together they form one continuous s
 | The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164270](https://doi.org/10.5281/zenodo.17164270) |
 | Planck Scales from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164341](https://doi.org/10.5281/zenodo.17164341) |
 | Electron Mass, Proton Mass, Rydberg Constant and Bohr Radius from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17169451](https://doi.org/10.5281/zenodo.17169451) |
+| Boltzmann, Stefan–Boltzmann, Wien, Radiation Constant, Planck Temperature from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17175869](https://doi.org/10.5281/zenodo.17175869) |
 | UFEB Development Notes with Provenance Flagging: A Swarm Theory Derivation | [10.5281/zenodo.17164419](https://doi.org/10.5281/zenodo.17164419) |
 
 ## FAQ
