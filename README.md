@@ -1,5 +1,7 @@
 # Swarm Theory: Unified Field Equation Series (UFE & UFEB)
 
+Swarm Theory Wiki:  📖 [View the Project Wiki](https://github.com/crumpler4/Swarm-Theory-Unified-Field-Equation-Series/wiki)
+
 **Swarm Theory** models reality as a coherence lattice: a 2D, wave-bearing, tensioned membrane network enclosing zero-nodes. From this geometry, familiar physics **emerges**—fields, forces, and the numerical constants—without assuming them a priori.  
 The series derives constants and scales directly from **coherence geometry**, and packages dynamics in an **update-budget form (UFEB)** that eliminates explicit time while preserving Relativity, Quantum behavior, and Gravity.
 
