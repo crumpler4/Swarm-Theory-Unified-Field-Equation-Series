@@ -1,5 +1,9 @@
 # Swarm Theory: Unified Field Equation Series (UFE & UFEB)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17118609.svg)](https://doi.org/10.5281/zenodo.17118609)
+![Downloads](https://img.shields.io/badge/downloads-204%2B-brightgreen)
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-blue)
+
 🌐 [Official Website](https://www.swarmfieldtheory.org)  
 📖 [View the Project Wiki](https://github.com/crumpler4/Swarm-Theory-Unified-Field-Equation-Series/wiki)  
 ✉️ Contact: [jpcrumpler@swarmfieldtheory.org](mailto:jpcrumpler@swarmfieldtheory.org)
