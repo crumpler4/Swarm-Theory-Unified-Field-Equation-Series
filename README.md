@@ -1,6 +1,27 @@
 # Swarm Theory: Unified Field Equation Series (UFE & UFEB)
 
-Swarm Theory Wiki:  
+🌐 [Official Website](https://www.swarmfieldtheory.org)  
+📖 [View the Project Wiki](https://github.com/crumpler4/Swarm-Theory-Unified-Field-Equation-Series/wiki)  
+✉️ Contact: [jpcrumpler@swarmfieldtheory.org](mailto:jpcrumpler@swarmfieldtheory.org)
+
+---
+
+## About
+
+**Swarm Theory** is a geometric framework for unification in physics.  
+It models physical space as a lattice of tension-bearing membranes stretched between zero-nodes.  
+From this simple geometry, fundamental constants such as Planck’s constant, the fine-structure constant,  
+and the speed of light emerge directly from first principles — no empirical curve-fitting required.
+
+### Why it matters
+- 🔬 **Mathematical clarity** — reproduces constants with CODATA accuracy.  
+- 🌌 **Unification** — one substrate accounts for electromagnetism, gravity, and quantization.  
+- 🧭 **Predictive potential** — coherence aperture and response time are measurable, testable parameters.  
+- 💡 **Accessibility** — rigorous yet intuitive geometry that can be taught, visualized, and extended.
+
+---
+
+## Swarm Theory Wiki
 📖 [View the Project Wiki](https://github.com/crumpler4/Swarm-Theory-Unified-Field-Equation-Series/wiki)
 
 **Swarm Theory** models reality as a coherence lattice: a 2D, wave-bearing, tensioned membrane network enclosing zero-nodes. From this geometry, familiar physics **emerges**—fields, forces, and the numerical constants—without assuming them a priori.  
@@ -95,8 +116,6 @@ The series derives constants and scales directly from **coherence geometry**, an
 ### What is the lattice made of?
 The lattice is **that which has the properties defined by the Unified Field Equation (UFE)**. At its most basic, it is **real space**—two-dimensional, wave-bearing, and under tension. Whether it is “made of” something is beyond our acuity; a useful intuition is **stored energy** arranged as a coherence structure stretched between zero-nodes. It is **not** a substance in the old aether sense, but a **field of capacity** that carries and shapes waves.
 
----
-
 **Physical metaphor:** the foam head on a Guinness stout. The thin membranes of the bubbles represent the lattice; the CO₂/N₂ inside each bubble represents the zero-nodes. Unlike beer foam, the lattice **is not a material**: it has **no thickness** and **no mass**. The interior (the zero-node) is the **absence of physical reality**.
 
 ---
@@ -147,6 +166,3 @@ Each paper can be read independently, but together they trace a single arc: **co
 
 This work is licensed under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
 See the LICENSE file for details.
-
----
-
