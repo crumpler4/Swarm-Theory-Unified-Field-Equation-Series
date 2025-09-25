@@ -98,7 +98,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 | UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
 | The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164270](https://doi.org/10.5281/zenodo.17164270) |
-| Crumpler, J. P. (2025). The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation. | [Zenodo](https://doi.org/10.5281/zenodo.17164270) |
+| Companion paper: The Gravitational Constant as a Derived Quantity from Cycle Geometry. | [10.5281/Zenodo.17199917]https://doi.org/10.5281/zenodo.17199917) |
 | Planck Scales from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164341](https://doi.org/10.5281/zenodo.17164341) |
 | Electron Mass, Proton Mass, Rydberg Constant and Bohr Radius from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17169451](https://doi.org/10.5281/zenodo.17169451) |
 | Boltzmann, Stefan–Boltzmann, Wien, Radiation Constant, Planck Temperature from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17175869](https://doi.org/10.5281/zenodo.17175869) |
@@ -138,6 +138,12 @@ An analogy is a **hurricane** on the ocean: a persistent, self-organized energy 
 
 **Which particles are non-persistent swarms?**  
 **Non-persistent swarms** are short-lived coherence patterns that cannot sustain themselves in the lattice. They arise when lattice tension waves intersect in unstable geometries, producing transient excitations that relax into more stable forms. In contrast, **electrons, protons, positrons, and antiprotons** are **persistent** swarms.
+
+**What do the updates represent in Crumpler Transforms or Timeless Derivations?**
+**Updates** are not “objects moving” but reconfigurations of coherence in the lattice membranes. • Each update is a discrete budget reconciliation of tension, like a step in a balance sheet.vNothing physically “jumps” — the system just closes balance at each tick.
+
+**Are updates simultaneous across the universe?**
+The key: UFEB looks like it updates everywhere at once, but that’s only because it’s a mathematical representation. • In the physical lattice, coherence updates propagate at c (or c_obs), bounded by Arthur’s Constant (κ). The “tick” is the universal response time τ ≈ 9.84×10⁻¹⁶ s, but the effect of an update is still constrained by the wave speed. So: yes, the lattice ticks at one universal cadence, but information doesn’t spread instantly.
 
 **Examples of non-persistent swarms include:**
 - **Unstable leptons:** muon (μ⁻), tau (τ⁻)  
