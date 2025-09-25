@@ -98,6 +98,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 | Unified Field Equation (UFE)         | [10.5281/zenodo.17118609](https://doi.org/10.5281/zenodo.17118609) |
 | UFEB: A Simplified Update-Based Formulation of the Unified Field Equation | [10.5281/zenodo.17159129](https://doi.org/10.5281/zenodo.17159129) |
 | The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164270](https://doi.org/10.5281/zenodo.17164270) |
+| Crumpler, J. P. (2025). The Gravitational Constant from Coherence Geometry: A Swarm Theory Derivation. | [Zenodo](https://doi.org/10.5281/zenodo.17164270) |
 | Planck Scales from Coherence Geometry: A Swarm Theory Derivation | [10.5281/zenodo.17164341](https://doi.org/10.5281/zenodo.17164341) |
 | Electron Mass, Proton Mass, Rydberg Constant and Bohr Radius from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17169451](https://doi.org/10.5281/zenodo.17169451) |
 | Boltzmann, Stefan–Boltzmann, Wien, Radiation Constant, Planck Temperature from Coherence Geometry (UFEB): A Swarm Theory Derivation | [10.5281/zenodo.17175869](https://doi.org/10.5281/zenodo.17175869) |
