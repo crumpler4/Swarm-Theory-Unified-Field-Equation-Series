@@ -1,7 +1,7 @@
 # Swarm Theory: Unified Field Equation Series (UFE & UFEB)
 
 
-![Downloads](https://img.shields.io/badge/downloads-336-in-22-days%2B-brightgreen)
+![Downloads](https://img.shields.io/badge/downloads-336%2B-brightgreen)
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-blue)
 
 🌐 [Official Website](https://www.swarmfieldtheory.org)  
