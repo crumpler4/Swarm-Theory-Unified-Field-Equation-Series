@@ -85,6 +85,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 
 | Paper                                | DOI Link |
 |--------------------------------------|----------|
+| Falsification Test of Swarm Theory Using Radio and Optical Propagation | [10.5281/zenodo.17583230](https://doi.org/10.5281/zenodo.17583230)
 | Falsifiable Predictions from Swarm Theory: A Geometric Unified Field Framework | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17179259)
 | Compactification of Quantum Mechanics: Collapsing the Constants of Nature to Two Postulates and Integrating Gravity | [10.5281/zenodo.17251808](https://doi.org/10.5281/zenodo.17251808)
 | Matter as Condensates of Wave Propagation| [10.5281/zenodo.17249837](https://doi.org/10.5281/zenodo.17249837) |
