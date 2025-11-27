@@ -85,6 +85,7 @@ The series derives constants and scales directly from **coherence geometry**, an
 
 | Paper                                | DOI Link |
 |--------------------------------------|----------|
+| Swarm Coherence and the Onset of Turbulence:  A Geometric Derivation of the Critical Reynolds Number | [10.5281/zenodo.17734395](https://doi.org/10.5281/zenodo.17734395)
 | Falsification Test of Swarm Theory Using Radio and Optical Propagation | [10.5281/zenodo.17583230](https://doi.org/10.5281/zenodo.17583230)
 | Falsifiable Predictions from Swarm Theory: A Geometric Unified Field Framework | [10.5281/zenodo.17120195](https://doi.org/10.5281/zenodo.17179259)
 | Compactification of Quantum Mechanics: Collapsing the Constants of Nature to Two Postulates and Integrating Gravity | [10.5281/zenodo.17251808](https://doi.org/10.5281/zenodo.17251808)
